@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f55e0d</color>
+    <color name="pureBlack">#000000</color>
+    <color name="numPadColor">#00cdcd</color>
+    <color name="numPadDigit">#b8860b</color>
+    <color name="answerColor">#789db0</color>
+</resources>
